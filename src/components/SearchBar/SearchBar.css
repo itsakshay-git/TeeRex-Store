@@ -1,0 +1,72 @@
+.searchContainer{
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.textContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 400px; */
+}
+.textContainer input{
+    height: 31px;
+    width: 200px;
+}
+
+.textContainer button{
+    height: 31px;
+    width: 50px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+}
+
+.textContainer button svg{
+    height: 13px;
+}
+
+.textContainer form input{
+    flex: 1;
+    border: none;
+    outline: none;
+}
+
+.filterBtn{
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .searchContainer{
+        margin: 0;
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    .textContainer input{
+        height: 31px;
+        width: 100px;
+    }
+    .filterBtn{
+        display: block;
+        height: 31px;
+        width: 40px;
+        margin-left: 20px ;
+    }
+
+    .productFilterMobile{
+        display: block;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        margin-top: 10%;
+        max-height: 60%;
+        width: 40%;
+        position: fixed;
+        background-color: white;
+        box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+        text-align: start;
+    }
+
+  }

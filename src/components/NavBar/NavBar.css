@@ -1,0 +1,28 @@
+.Navbar{
+    height: 70px;
+    background-color: gray;
+    /* position: fixed; */
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.productPgeBtn{
+    height: 40px;
+    border-color: lightblue;
+    border-radius: 6px;
+    background-color: lightblue;
+}
+
+.addToCartLogo{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+}
+
+.navigationButtons{
+    display: flex;
+}
