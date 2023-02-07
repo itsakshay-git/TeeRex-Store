@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# TeeRex-Store
+
+This is a Geektrust challenge on TeeRex-Store build for an interface with a simple webapp where customers can browse through the catalog of t-shirts, add t-shirts to the shopping cart and checkout the items in the cart.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**Below image is my implimentation**
+
+Here is the link for my build [TeeRex-Store](https://teerex-store-akshay.netlify.app/)
+
+![Screenshot (129)](https://user-images.githubusercontent.com/110621476/217233290-d9d44371-86ce-4deb-ac1c-0fdb7f293d6e.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/110621476/217233327-b89e204b-033f-4a7d-b025-028da2f24f33.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/110621476/217233860-3c6fa4cd-d7c5-48c6-8235-f71da1a00445.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/110621476/217233504-2c997bd2-fe6b-4e33-b8cd-a1640b2ef6ae.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/110621476/217233549-4829f2af-0744-48c5-9363-3eee6e02523b.png)
 
 ## Available Scripts
 
